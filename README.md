@@ -17,6 +17,8 @@ README      - this readme
 
 src         - source files
 
+test.sh     - testing script
+
 ### About program
 This is tool for DNS tunneling implementing both client and server.
 
