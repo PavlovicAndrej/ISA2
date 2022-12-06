@@ -9,13 +9,13 @@ Andrej Pavlovič <xpavlo14@vutbr.cz>
 9.11.2022
 
 ### Files
-manual.pdf  - doc
+manual.pdf  - documentation
 
 Makefile    - compilation file
 
-README      - this readme
+README.md   - this readme
 
-src         - source files
+src/        - source files
 
 test.sh     - testing script
 
