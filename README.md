@@ -1,4 +1,4 @@
-# DNS Tunneling Tool
+# DNS Tunneling Tool (Hodnotenie: 21/20b)
 
 ### *For more detailed information check official documentation `manual.pdf` located in root*
 
