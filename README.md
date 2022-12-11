@@ -1,4 +1,6 @@
-# DNS Tunneling Tool (Hodnotenie: 21/20b)
+# DNS Tunneling Tool
+
+# Received 21/20 points.
 
 ### *For more detailed information check official documentation `manual.pdf` located in root*
 
