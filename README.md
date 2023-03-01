@@ -1,26 +1,15 @@
 # DNS Tunneling Tool
 
-### *For more detailed information check official documentation `manual.pdf` located in root*
-
-###  Author
-Andrej Pavlovič <xpavlo14@vutbr.cz>
-
-### Created
-9.11.2022
-
-### Files
-manual.pdf  - documentation
-
-Makefile    - compilation file
-
-README.md   - this readme
-
-src/        - source files
-
-test.sh     - testing script
+### *For more detailed information check documentation `manual.pdf` located in root*
 
 ### About program
 This is tool for DNS tunneling implementing both client and server.
+
+###  Author
+Andrej Pavlovič <xpavlo14@vutbr.cz> <ajo133.sk@gmail.com> <1.andrej.pavlovic@gmail.com>
+
+### Created
+9.11.2022
 
 ### Compile 
 **make** from root dir
